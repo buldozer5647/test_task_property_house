@@ -20,5 +20,5 @@ pip install -r requirements.txt
 ```
 - then you can run a code with a command
 ```
-fatapi dev main.py
+fastapi dev main.py
 ```
